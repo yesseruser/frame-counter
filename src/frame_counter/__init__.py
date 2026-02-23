@@ -40,7 +40,7 @@ def main() -> int:
     time = format_ms(milliseconds)
     print(time)
     print(
-        f"Mod Note: Start Time {start}, End Time: {end}, Frame Rate: {fps}, Time: {time}"
+        f"Mod Note: Start Frame: {start}, End Frame: {end}, Frame Rate: {fps}, Time: {time}"
     )
 
     return 0
