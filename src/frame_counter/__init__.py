@@ -37,7 +37,11 @@ def main() -> int:
     milliseconds = (Decimal(end - start) * Decimal(1000) / Decimal(fps)).quantize(
         Decimal("1")
     )
-    print(format_ms(milliseconds))
+    time = format_ms(milliseconds)
+    print(time)
+    print(
+        f"Mod Note: Start Time {start}, End Time: {end}, Frame Rate: {fps}, Time: {time}"
+    )
 
     return 0
 
