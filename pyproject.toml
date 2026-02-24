@@ -1,6 +1,6 @@
 [project]
 name = "frame-counter"
-version = "0.1.0"
+version = "0.1.0.post1"
 description = "Frame counter CLI for speedrun verification"
 readme = "README.md"
 requires-python = ">=3.9"
