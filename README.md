@@ -1,6 +1,8 @@
 # frame-counter
 Frame counter CLI for speedrun verification
 
+[Video](https://youtu.be/_k751ds48-s)
+
 ## Installation:
 ```
 pip install frame-counter
