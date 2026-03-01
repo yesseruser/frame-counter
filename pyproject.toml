@@ -7,4 +7,4 @@ requires-python = ">=3.9"
 dependencies = []
 
 [project.scripts]
-frame-count = "frame_counter:main"
+frame-counter = "frame_counter:main"
