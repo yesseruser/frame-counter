@@ -1,7 +1,7 @@
 # frame-counter
 Frame counter CLI for speedrun verification
 
-[Video](https://youtu.be/_k751ds48-s)
+![[Video](https://img.youtube.com/vi/_k751ds48-s/0.jpg)](https://youtu.be/_k751ds48-s)
 
 ## Installation:
 ```
