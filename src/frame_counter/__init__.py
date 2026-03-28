@@ -26,7 +26,7 @@ def main() -> int:
         return 1
 
     try:
-        fps = int(sys.argv[1])
+        fps = Decimal(sys.argv[1])
         start = int(sys.argv[2])
         end = int(sys.argv[3])
     except Exception:
