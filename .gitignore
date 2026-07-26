@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Nix and direnv stuff
+.direnv
+result
